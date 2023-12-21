@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://geosayan.github.io/bittushan/sitemap.xml
+Sitemap: https://geosayan.github.io/sitemap.xml
