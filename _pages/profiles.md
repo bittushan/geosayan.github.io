@@ -14,7 +14,7 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>HAMP 2265</p>
+      <p>HAMP 2295</p>
       <p>550 Stadium Mall Drive</p>
       <p>West Lafayette, IN 47907</p>
   - align: left
@@ -22,7 +22,7 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>HAMP 2265</p>
+      <p>HAMP 2295</p>
       <p>550 Stadium Mall Drive</p>
       <p>West Lafayette, IN 47907</p>
 ---
