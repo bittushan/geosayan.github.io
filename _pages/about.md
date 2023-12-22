@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p> HAMP 2265 </p>
     <p> 550 Stadium Mall Drive </p>
-    <p> West Lafayette, IN 47907 </p>
+    <p> West Lafayette,IN 47907 </p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
